@@ -1,0 +1,46 @@
+@font-face{
+    font-family: "br-bold";
+    src: url('./fonts/woff/BRHendrix-Bold-BF6556d1b5459d3.woff') format('woff');
+}
+
+.br_bold{
+    font-family: "br-bold";
+}
+
+@font-face{
+    font-family: "br-semibold";
+    src: url('./fonts/woff/BRHendrix-SemiBold-BF6556d1b51cbb8.woff') format('woff');
+}
+
+.br_semibold{
+    font-family: "br-semibold";
+}
+
+
+@font-face{
+    font-family: "br-regular";
+    src: url('./fonts/woff/BRHendrix-Regular-BF6556d1b5096f9.woff') format('woff');
+}
+
+.br_regular{
+    font-family: "br-regular";
+}
+
+@font-face{
+    font-family: "br-Medium";
+    src: url('./fonts/woff/BRHendrix-Medium-BF6556d1b4e12b2.woff') format('woff');
+}
+
+
+.br_medium{
+    font-family: "br-Medium";
+}
+
+@font-face{
+    font-family: "br-Light";
+    src: url('./fonts/woff/BRHendrix-Light-BF6556d1b53e741.woff') format('woff');
+}
+
+.br_light{
+    font-family: "br-Light";
+}
